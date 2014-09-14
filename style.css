@@ -1,0 +1,19 @@
+html {
+ background: black;
+ }
+ 
+ 
+ nav ul li
+  {
+   color:white;
+   text-transform:uppercase;   
+ }
+ 
+ .main{
+ 
+  background-color:white;
+  height:400px;
+  width:800px;
+  float:left;
+
+ }
